@@ -1,2 +1,2 @@
 # 2D-Platformer
-Unity C#
+Cheerful alien character jumps on enemies and grabs coins
